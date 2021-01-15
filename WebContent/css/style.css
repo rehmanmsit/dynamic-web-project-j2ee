@@ -1,0 +1,115 @@
+.sideDivPlay {
+	border: 3px solid pink;
+	background-color: gray;
+	height: 50px;
+	padding: 20px;
+}
+
+.footer {
+	border: 3px solid green;
+	background-color: yellow;
+	height: 50px;
+	width: 100%;
+}
+
+#header {
+	border: 3px solid green;
+	background-color: lightblue;
+	height: 70px;
+	width: 100%;
+	color: red;
+	font-family: serif;
+	font-size: 160%;
+}
+
+.room {
+	width: 100%;
+	color: blue;
+	font-family: serif;
+	border: 1px solid black;
+	font-size: 200%;
+}
+
+.main {
+	border: 3px solid green;
+	background-color: dark pink;
+	width: 85%;
+	text-align: center;
+}
+
+.sec {
+	border: 3px solid green;
+	background-color: orange;
+	display: inline-flex;
+	height: 550px;
+	width: 100%;
+}
+
+.plain {
+	border: 3px solid pink;
+	background-color: white;
+	height: 50px;
+	padding: 20px;
+}
+
+.textAlgCent {
+	text-align: center;
+}
+
+.side {
+	border: 3px solid pink;
+	background-color: white;
+	width: 15%;
+	display: inline-block;
+}
+
+.gameBoardDiv {
+	background-image: url("../img/board.jpg");
+	height: 499px;
+	margin-top: 18px;
+	width: 503px;
+	margin-left: 20px;
+	display: flex;
+}
+
+.diceInput {
+	width: 20px;
+	margin: 240px 0px 100px 50px;
+}
+
+.rollBtn {
+	margin: 230px 0px 100px 70px;
+	height: 50px;
+	width: 75px;
+}
+
+.boardCell {
+	height: 50px;
+	width: 50px;
+}
+
+.mainBackImg {
+	background-image: url('../img/board.jpg');
+}
+
+.mb15 {
+	margin-bottom: 15px;
+}
+
+.roomBdrMrg{
+	border: 3px solid red; 
+	margin: 125px 325px 0px 325px;
+}
+.roomConDis{
+	display: flex;
+	justify-content: center;
+}
+.roomPad{
+	padding:3px;
+}
+.diceImg{
+	margin: 225px 0px 100px 100px;
+}
+.hide{
+	display: none;
+}
